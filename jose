@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="101TeleAntequera.es" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="Music",101 Tele Antequera (1080p)
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+https://limited38.todostreaming.es/live/101tv-AtequeraHD.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VMMNhkf.png" group-title="Music",Top Latino TV (404p) [Not 24/7]
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/gyZCypH.png" group-title="Undefined",Televisa Estado (1080p) [Not 24/7]
