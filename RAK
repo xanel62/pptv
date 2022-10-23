@@ -1,4 +1,177 @@
-# pp
+#EXTM3U url-tvg =https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml
+#EXTINF:-1 xui-id="48398" tvg-id="CEROHD" tvg-name="|ES| MOVISTAR 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" group-title="ESPANA -  CINE",|ES| MOVISTAR 0# FHD
+http://megalily.xyz:900/7472511348/6588781551/165951
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES| M+ ESTRENOS HD" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="EU | SPAIN HD",ES| M+ ESTRENOS HD
+http://megalily.xyz:900/7472511348/6588781551/165940
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES| M+ ESTRENOS 2 HD" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="EU | SPAIN HD",ES| M+ ESTRENOS 2 HD
+http://megalily.xyz:900/7472511348/6588781551/165944
+#EXTINF:-1 xui-id="48402" tvg-id="MACCIHD" tvg-name="|ES| MOVISTAR ACCION FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="ESPANA -  CINE",|ES| MOVISTAR ACCION FHD
+http://megalily.xyz:900/7472511348/6588781551/165856
+#EXTINF:-1 xui-id="48404" tvg-id="MCOMHD" tvg-name="|ES| MOVISTAR COMEDIA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/ddfdb0ccac6bbc67650fafdbde3a360d.png" group-title="ESPANA -  CINE",|ES| MOVISTAR COMEDIA FHD
+http://megalily.xyz:900/7472511348/6588781551/165857
+#EXTINF:-1 xui-id="48406" tvg-id="MDRAMHD" tvg-name="|ES| MOVISTAR DRAMA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/6a82846d38b09664c8fb65fed62d8d19.png" group-title="ESPANA -  CINE",|ES| MOVISTAR DRAMA FHD
+http://megalily.xyz:900/7472511348/6588781551/165858
+#EXTINF:-1 xui-id="109248" tvg-id="MovistarClasicos.es" tvg-name="|ES| MOVISTAR CLASICO FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="ESPANA -  CINE",|ES| MOVISTAR CLASICO FHD
+http://megalily.xyz:900/7472511348/6588781551/400233594
+#EXTINF:-1 xui-id="48411" tvg-id="HOLWHD" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/08f97a2cf9e4533df2046db62aa85fee.png" group-title="ESPANA -  CINE",|ES| HOLLYWOOD FHD
+http://megalily.xyz:900/7472511348/6588781551/165862
+#EXTINF:-1 xui-id="48413" tvg-id="TCMAAM" tvg-name="|ES| TCM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="ESPANA -  CINE",|ES| TCM FHD
+http://megalily.xyz:900/7472511348/6588781551/165863
+#EXTINF:-1 xui-id="48442" tvg-id="AMCCOL" tvg-name="|ES| AMC FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/eba62e97568a6ee0c5a95ffba7b124c1.png" group-title="ESPANA -  CINE",|ES| AMC FHD
+http://megalily.xyz:900/7472511348/6588781551/165876
+#EXTINF:-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES| COSMO HD" tvg-logo="https://lo1.in/LOGO/SPAIN/COSMOHD.png" group-title="EU | SPAIN HD",ES| COSMO HD
+http://megalily.xyz:900/7472511348/6588781551/165877
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES| COMEDY CENTRAL HD" tvg-logo="https://lo1.in/LOGO/SPAIN/COMEDYCENTRALHD.png" group-title="EU | SPAIN HD",ES| COMEDY CENTRAL HD
+http://megalily.xyz:900/7472511348/6588781551/165874
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES| TNT HD" tvg-logo="https://lo1.in/LOGO/SPAIN/TNTHD.png" group-title="EU | SPAIN HD",ES| TNT HD
+http://megalily.xyz:900/7472511348/6588781551/165864
+#EXTINF:-1 xui-id="48446" tvg-id="SYFYHA" tvg-name="|ES| SYFY FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjQ240BH71_8hlPT6Fo9C59m9-CcCEM6741fZI7X_fQDA.png" group-title="ESPANA -  CINE",|ES| SYFY FHD
+http://megalily.xyz:900/7472511348/6588781551/165872
+#EXTINF:-1 xui-id="48432" tvg-id="CALLE13" tvg-name="|ES| CALLE 13 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/bec671b8f24c482c48416977a354c36a.png" group-title="ESPANA -  CINE",|ES| CALLE 13 FHD
+http://megalily.xyz:900/7472511348/6588781551/165878
+#EXTINF:-1 xui-id="48434" tvg-id="FOXESP" tvg-name="|ES| FOX FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1fe310e6e32823d6c18d1ace507779a8.png" group-title="ESPANA -  CINE",|ES| FOX FHD
+http://megalily.xyz:900/7472511348/6588781551/165868
+#EXTINF:-1 xui-id="48438" tvg-id="AXNAND" tvg-name="|ES| AXN FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/85fcdbfcd7e35d29c2c8efff3ea9df7e.png" group-title="ESPANA -  CINE",|ES| AXN FHD
+http://megalily.xyz:900/7472511348/6588781551/165870
+#EXTINF:-1 xui-id="48440" tvg-id="AXNWHHD" tvg-name="|ES| AXN WHITE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/0db1f8e3bae410631575704b703f45f0.png" group-title="ESPANA -  CINE",|ES| AXN WHITE FHD
+http://megalily.xyz:900/7472511348/6588781551/165871
+#EXTINF:-1 xui-id="48415" tvg-id="SUNDAHD" tvg-name="|ES| SUNDANCE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/014dec09d30ae7a62daf5875bf2bcd62.png" group-title="ESPANA -  CINE",|ES| SUNDANCE FHD
+http://megalily.xyz:900/7472511348/6588781551/165873
+#EXTINF:-1 xui-id="48418" tvg-id="XTRMHD" tvg-name="|ES| XTRM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/760584d13f0c6712c5b7df4dc65c075e.png" group-title="ESPANA -  CINE",|ES| XTRM FHD
+http://megalily.xyz:900/7472511348/6588781551/6141
+#EXTINF:-1 xui-id="62202" tvg-id="DARKSPA" tvg-name="|ES| DARK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="ESPANA -  CINE",|ES| DARK FHD
+http://megalily.xyz:900/7472511348/6588781551/400278977
+#EXTINF:-1,ES| SOMOS HD
+http://megalily.xyz:900/7472511348/6588781551/7190
+#EXTINF:-1,ES| BOM CINE HD
+http://megalily.xyz:900/7472511348/6588781551/5614
+#EXTINF:-1,ES| M+ SERIES HD
+http://megalily.xyz:900/7472511348/6588781551/165946
+#EXTINF:-1,ES| M+ SERIES 2 HD
+http://megalily.xyz:900/7472511348/6588781551/165952
+#EXTINF:-1 tvg-id="" tvg-name="ES| M. FEST FHD" tvg-logo="https://lo1.in/LOGO/SPAIN/M.Fest.png" group-title="EU | SPAIN FHD",ES| M. FEST FHD
+http://megalily.xyz:900/7472511348/6588781551/362315
+#EXTINF:-1 xui-id="101681" tvg-id="LALTV" tvg-name="|ES| LALIGA TV BAR FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" group-title="ESPANA -  FUTBOL",|ES| LALIGA TV BAR FHD
+http://megalily.xyz:900/7472511348/6588781551/400267408
+#EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
+http://megalily.xyz:900/7472511348/6588781551/165885
+#EXTINF:-1 xui-id="48503" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8dbd78e23ee5795fa914ea4ad6c91324.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 1 FHD
+http://megalily.xyz:900/7472511348/6588781551/187554
+#EXTINF:-1,ES| M+ LALIGA 2 FHD
+http://megalily.xyz:900/7472511348/6588781551/5971
+#EXTINF:-1 xui-id="48514" tvg-id="LIGCAHD" tvg-name="|ES| MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES FHD
+http://megalily.xyz:900/7472511348/6588781551/187582
+#EXTINF:-1 xui-id="48516" tvg-id="MVLGCM1" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 1 FHD
+http://megalily.xyz:900/7472511348/6588781551/187584
+#EXTINF:-1 xui-id="48518" tvg-id="MVLGCM2" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p4tf-uXJPZHYvBP18pIHiDQ.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 2 FHD
+http://megalily.xyz:900/7472511348/6588781551/187584
+#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 3 HD
+http://megalily.xyz:900/7472511348/6588781551/400173248
+#EXTINF:-1,ES| M+ LIGA DE CAMPEONES 4 HD
+#EXTINF:-1 xui-id="48496" tvg-id="VAMOS" tvg-name="|ES| MOVISTAR VAMOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR VAMOS FHD
+#EXTINF:-1 xui-id="110085" tvg-id="" tvg-name="|FR| BeIN Sports 1 HD (1080P)" tvg-logo="" group-title="FRANCE - SPORT",|FR| BeIN Sports 1 HD (1080P)
+http://megalily.xyz:900/7472511348/6588781551/6825
+#EXTINF:-1 xui-id="110089" tvg-id="" tvg-name="|FR| BeIN Sports 2 HD (1080P)" tvg-logo="" group-title="FRANCE - SPORT",|FR| BeIN Sports 2 HD (1080P)
+http://megalily.xyz:900/7472511348/6588781551/6824
+#EXTINF:-1,FR| BEIN SPORTS 3 4k
+http://megalily.xyz:900/7472511348/6588781551/6823
+#EXTINF:-1,UK| SKY SPORTS FOOTBALL FHD
+http://megalily.xyz:900/7472511348/6588781551/153695
+#EXTINF:-1,UK| PREMIER SPORTS 1 FHD
+http://megalily.xyz:900/7472511348/6588781551/153723
+#EXTINF:-1,ES| DAZN 1 ESPAÑA FHD
+http://megalily.xyz:900/7472511348/6588781551/360194
+EXTINF:-1,ES| DAZN LA LIGA 1 HD
+http://megalily.xyz:900/7472511348/6588781551/400440768
+#EXTINF:-1,ES| DAZN LA LIGA 2 HD
+http://megalily.xyz:900/7472511348/6588781551/400440767
+#EXTINF:-1,ZA| SUPERSPORT FOOTBALL HD
+http://megalily.xyz:900/7472511348/6588781551/190006
+#EXTINF:-1,ZA| SUPERSPORT FOOTBALL PLUS FHD
+http://megalily.xyz:900/7472511348/6588781551/400415389
+#EXTINF:-1,ZA| SUPERSPORT FHD
+http://megalily.xyz:900/7472511348/6588781551/190005
+#EXTINF:-1,PT| SPORT TV 1 FHD
+http://megalily.xyz:900/7472511348/6588781551/165511
+#EXTINF:-1,UK| SKY SPORTS FOOTBALL HD
+http://megalily.xyz:900/7472511348/6588781551/191691
+#EXTINF:-1,CLARO| ESPN HD
+http://megalily.xyz:900/7472511348/6588781551/190268
+#EXTINF:-1,CLARO| ESPN 2 HD
+http://megalily.xyz:900/7472511348/6588781551/190269
+#EXTINF:-1,US| LATIN FOX DEPORTES HD
+http://megalily.xyz:900/7472511348/6588781551/176976
+EXTINF:-1,US| BEIN SPORTS EN ESPANOL
+http://megalily.xyz:900/7472511348/6588781551/176894
+#EXTINF:-1,ES| IBERALIA TV FHD
+http://megalily.xyz:900/7472511348/6588781551/165898
+#EXTINF:-1 xui-id="48480" tvg-id="HISHDES" tvg-name="|ES| HISTORIA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1e4e034406cd2444557b1986321d4be4.png" group-title="ESPANA -  CULTURA",|ES| HISTORIA FHD
+http://megalily.xyz:900/7472511348/6588781551/165909
+#EXTINF:-1 xui-id="48484" tvg-id="NGCARGA" tvg-name="|ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAPHIC FHD
+http://megalily.xyz:900/7472511348/6588781551/165901
+#EXTINF:-1 xui-id="48486" tvg-id="NATGWES" tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAFIC WILD FHD
+http://megalily.xyz:900/7472511348/6588781551/165900
+#EXTINF:-1 xui-id="108252" tvg-id="" tvg-name="CULTURALES FHD | ANIMAL PLANET" tvg-logo="" group-title="LATINO - CULTURALE",CULTURALES FHD | ANIMAL PLANET
+http://dx.tvdev.club:8080/play/wYUxMon3aJSgJWijqjO84QxqSR9uAXyq9LV_URFCbAPUeOt4nomyiv3w3spxsJ3L
+#EXTINF:-1 xui-id="108253" tvg-id="" tvg-name="CULTURALES FHD | HISTORY CHANNEL" tvg-logo="" group-title="LATINO - CULTURALE",CULTURALES FHD | HISTORY CHANNEL
+http://dx.tvdev.club:8080/play/wYUxMon3aJSgJWijqjO84QxqSR9uAXyq9LV_URFCbAMKSEaIZP1N4yZTNwlZc22P
+#EXTINF:-1 xui-id="48622" tvg-id="TELEMAD" tvg-name="|ES| TELEMADRID FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e49102d639b0535f53940fedd2e9ecd3.png" group-title="ESPANA -  TDT",|ES| TELEMADRID FHD
+http://megalily.xyz:900/7472511348/6588781551/400407272
+#EXTINF:-1,ES| EL TORO TV HD
+http://megalily.xyz:900/7472511348/6588781551/165995
+#EXTINF:-1,ARG| ELTRECE HD
+http://megalily.xyz:900/7472511348/6588781551/162694
+#EXTINF:-1,US| LATIN FRANCE 24 EN ESPAÃ±OL 
+http://megalily.xyz:900/7472511348/6588781551/177009
+#EXTINF:-1,IT| RAI NEWS 24 FHD
+http://megalily.xyz:900/7472511348/6588781551/194182
+#EXTINF:-1,IT| RAI 1 4K
+http://megalily.xyz:900/7472511348/6588781551/400231130
+#EXTINF:-1,IT| LA 5 MEDIASET HD
+http://megalily.xyz:900/7472511348/6588781551/167779
+#EXTINF:-1,IT| RAI PREMIUM HD
+#EXTINF:-1,US| TELEMUNDO HD
+http://megalily.xyz:900/7472511348/6588781551/176787
+#EXTINF:-1,US| TELEMUNDO TELEVISION NETWORK HD
+http://megalily.xyz:900/7472511348/6588781551/176788
+#EXTINF:-1,US| LATIN FOROTV 
+http://megalily.xyz:900/7472511348/6588781551/176885
+#EXTINF:-1,US| LATIN GALAVISION 
+http://megalily.xyz:900/7472511348/6588781551/176879
+#EXTINF:-1,LATINO | UNIMAS
+http://megalily.xyz:900/7472511348/6588781551/359215
+#EXTINF:-1,MEXICO L  UNICABLE
+http://megalily.xyz:900/7472511348/6588781551/359339
+#EXTINF:-1,US| TELEMUNDO 31 (WDMR) HARTFORD    
+http://megalily.xyz:900/7472511348/6588781551/183175
+#EXTINF:-1,MEXICO L CANAL DE LAS ESTRELLAS
+http://megalily.xyz:900/7472511348/6588781551/359322
+#EXTINF:-1 xui-id="108298" tvg-id="" tvg-name="MEXICO LOCAL | MULTIMEDIO MONTERREY" tvg-logo="" group-title="MEXICO",MEXICO LOCAL | MULTIMEDIO MONTERREY
+http://dx.tvdev.club:8080/play/wYUxMon3aJSgJWijqjO84QxqSR9uAXyq9LV_URFCbAMzsGC-hyoLAHjWmVYTTeHP
+#EXTINF:-1,US| TELEMUNDO HD
+http://megalily.xyz:900/7472511348/6588781551/176787
+#EXTINF:-1,US| TELEMUNDO TELEVISION NETWORK HD
+http://megalily.xyz:900/7472511348/6588781551/176788
+#EXTINF:-1,US| BEIN SPORTS EN ESPANOL
+http://megalily.xyz:900/7472511348/6588781551/176894
+#EXTINF:-1,US| HBO LATINO (WEST) 
+http://megalily.xyz:900/7472511348/6588781551/176969
+#EXTINF:-1,ARG| HBO MAX FHD
+http://megalily.xyz:900/7472511348/6588781551/380148
+#EXTINF:-1,US| HBO LATINO (WEST) 
+http://megalily.xyz:900/7472511348/6588781551/176969
+#EXTINF:-1,CLARO| HBO 2 HD
+http://megalily.xyz:900/7472511348/6588781551/190302
+#EXTINF:-1 xui-id="108125" tvg-id="" tvg-name="CINE FHD | UNIVERSAL CHANNEL" tvg-logo="" group-title="LATINO - CINE",CINE FHD | UNIVERSAL CHANNEL
+http://dx.tvdev.club:8080/play/wYUxMon3aJSgJWijqjO84QxqSR9uAXyq9LV_URFCbAMg-cSF_35iQsvl6wlFFuXI
+#EXTINF:-1 xui-id="108106" tvg-id="" tvg-name="CINE FHD | STAR CHANNEL" tvg-logo="" group-title="LATINO - CINE",CINE FHD | STAR CHANNEL
+http://dx.tvdev.club:8080/play/wYUxMon3aJSgJWijqjO84QxqSR9uAXyq9LV_URFCbAOCFvdQ8VHmFcbMfjz5UWi9
+#EXTINF:-1 xui-id="108110" tvg-id="" tvg-name="UNIVERSAL + | UNIVERSAL PREMIERE" tvg-logo="" group-title="LATINO - CINE",UNIVERSAL + | UNIVERSAL PREMIERE
+http://dx.tvdev.club:8080/play/wYUxMon3aJSgJWijqjO84QxqSR9uAXyq9LV_URFCbAP7Xx093fl-0dybtTYBqVx9
+#EXTINF:-1 xui-id="108111" tvg-id="" tvg-name="CINE FHD | HBO" tvg-logo="" group-title="LATINO - CINE",CINE FHD | HBO
+http://dx.tvdev.club:8080/play/wYUxMon3aJSgJWijqjO84QxqSR9uAXyq9LV_URFCbANhXVBvaXAMRmhEYTPFzyGs
+#EXTINF:-1 xui-id="108118" tvg-id="" tvg-name="CINE FHD | HBO XTREME" tvg-logo="" group-title="LATINO - CINE",CINE FHD | HBO XTREME
+http://dx.tvdev.club:8080/play/wYUxMon3aJSgJWijqjO84QxqSR9uAXyq9LV_URFCbAO28dQ2Ej-_OqSTFJrOcj
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies Spain (720p)
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Comedy Movies
